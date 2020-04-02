@@ -2,5 +2,6 @@
 hello world
 
 ## To Do:
-[x] Hug CB
-[ ] Kiss CB
+- [x] Hug CB
+- [ ] Kiss CB
+- Hi
